@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HamZaban</string>
+    <string name="header_title">هم‌زبان لایو (HamZaban Live)</string>
+    <string name="header_subtitle">مترجم همزمان جمینای • تفکیک هوشمند هدفون و اسپیکر</string>
+    <string name="tab_live_interpreter">مترجم زنده</string>
+    <string name="tab_audio_setup">هدفون و صدا</string>
+    <string name="tab_phrases_history">عبارات و تاریخچه</string>
+    <string name="channel_host_title">شما (هدفون در گوش)</string>
+    <string name="channel_host_subtitle">صحبت به فارسی ⬅ پخش ترجمه از اسپیکر گوشی برای مخاطب</string>
+    <string name="channel_partner_title">طرف مقابل (گوشی در دست)</string>
+    <string name="channel_partner_subtitle">صحبت مخاطب با گوشی ⬅ پخش ترجمه فارسی در هدفون شما</string>
+    <string name="btn_gemini_live_auto">جمینای لایو (تشخیص خودکار دوطرفه)</string>
+    <string name="btn_stop_listening">توقف ضبط و ارسال به جمینای</string>
+    <string name="btn_flip_partner_card">چرخش ۱۸۰ درجه کارت مخاطب</string>
+    <string name="btn_test_speaker_route">تست پخش از اسپیکر (برای مخاطب)</string>
+    <string name="btn_test_earbud_route">تست پخش در هدفون/گوشی (برای شما)</string>
+    <string name="input_placeholder">متن را برای ترجمه و پخش صوتی بنویسید…</string>
+    <string name="permission_mic_rationale">برای ترجمه صوتی همزمان با جمینای لایو، برنامه به دسترسی میکروفون نیاز دارد.</string>
+    <string name="permission_grant_button">فعالسازی میکروفون</string>
+    <string name="empty_conversation_title">آماده ترجمه همزمان دوطرفه</string>
+    <string name="empty_conversation_tip">هدفون را در گوش خود بگذارید و گوشی را به طرف مقابل بدهید، یا از دکمه‌های زیر برای شروع مکالمه استفاده کنید.</string>
+</resources>

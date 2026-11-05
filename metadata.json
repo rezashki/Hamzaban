@@ -1,0 +1,6 @@
+{
+  "name": "HamZaban",
+  "description": "Real-time AI simultaneous voice and conversation translator between English, Russian, Turkish, Spanish, Arabic, and Persian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
